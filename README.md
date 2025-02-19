@@ -1,4 +1,4 @@
-# RPCS3droid
+# rpcs3droid
 Attempt at running RPCS3 on Android natively via Android Studio
 
 ## Disclaimer
