@@ -1,0 +1,75 @@
+[submodule "app/src/main/cpp/3rdparty/7zip/7zip"]
+	path = app/src/main/cpp/3rdparty/7zip/7zip
+	url = https://github.com/ip7z/7zip
+[submodule "app/src/main/cpp/3rdparty/FAudio"]
+	path = app/src/main/cpp/3rdparty/FAudio
+	url = https://github.com/FNA-XNA/FAudio
+[submodule "app/src/main/cpp/3rdparty/OpenAL/openal-soft"]
+	path = app/src/main/cpp/3rdparty/OpenAL/openal-soft
+	url = https://github.com/kcat/openal-soft
+[submodule "app/src/main/cpp/3rdparty/SoundTouch/soundtouch"]
+	path = app/src/main/cpp/3rdparty/SoundTouch/soundtouch
+	url = https://github.com/RPCS3/soundtouch
+[submodule "app/src/main/cpp/3rdparty/asmjit/asmjit"]
+	path = app/src/main/cpp/3rdparty/asmjit/asmjit
+	url = https://github.com/asmjit/asmjit
+[submodule "app/src/main/cpp/3rdparty/cubeb/cubeb"]
+	path = app/src/main/cpp/3rdparty/cubeb/cubeb
+	url = https://github.com/mozilla/cubeb
+[submodule "app/src/main/cpp/3rdparty/curl"]
+	path = app/src/main/cpp/3rdparty/curl
+	url = https://github.com/curl/curl
+[submodule "app/src/main/cpp/3rdparty/flatbuffers"]
+	path = app/src/main/cpp/3rdparty/flatbuffers
+	url = https://github.com/google/flatbuffers
+[submodule "app/src/main/cpp/3rdparty/fusion/fusion"]
+	path = app/src/main/cpp/3rdparty/fusion/fusion
+	url = https://github.com/xioTechnologies/Fusion
+[submodule "app/src/main/cpp/3rdparty/glslang"]
+	path = app/src/main/cpp/3rdparty/glslang
+	url = https://github.com/KhronosGroup/glslang
+[submodule "app/src/main/cpp/3rdparty/hidapi"]
+	path = app/src/main/cpp/3rdparty/hidapi
+	url = https://github.com/RPCS3/hidapi
+[submodule "app/src/main/cpp/3rdparty/libpng"]
+	path = app/src/main/cpp/3rdparty/libpng
+	url = https://github.com/glennrp/libpng
+[submodule "app/src/main/cpp/3rdparty/libsdl-org/SDL"]
+	path = app/src/main/cpp/3rdparty/libsdl-org/SDL
+	url = https://github.com/libsdl-org/SDL
+[submodule "app/src/main/cpp/3rdparty/libusb"]
+	path = app/src/main/cpp/3rdparty/libusb
+	url = https://github.com/libusb/libusb
+[submodule "app/src/main/cpp/3rdparty/llvm/llvm"]
+	path = app/src/main/cpp/3rdparty/llvm/llvm
+	url = https://github.com/llvm/llvm-project
+[submodule "app/src/main/cpp/3rdparty/miniupnp/miniupnp"]
+	path = app/src/main/cpp/3rdparty/miniupnp/miniupnp
+	url = https://github.com/miniupnp/miniupnp
+[submodule "app/src/main/cpp/3rdparty/opencv/opencv"]
+	path = app/src/main/cpp/3rdparty/opencv/opencv
+	url = https://github.com/Megamouse/opencv_minimal
+[submodule "app/src/main/cpp/3rdparty/pugixml"]
+	path = app/src/main/cpp/3rdparty/pugixml
+	url = https://github.com/zeux/pugixml
+[submodule "app/src/main/cpp/3rdparty/rtmidi/rtmidi"]
+	path = app/src/main/cpp/3rdparty/rtmidi/rtmidi
+	url = https://github.com/thestk/rtmidi
+[submodule "app/src/main/cpp/3rdparty/stblib/stb"]
+	path = app/src/main/cpp/3rdparty/stblib/stb
+	url = https://github.com/nothings/stb
+[submodule "app/src/main/cpp/3rdparty/wolfssl"]
+	path = app/src/main/cpp/3rdparty/wolfssl
+	url = https://github.com/wolfSSL/wolfssl
+[submodule "app/src/main/cpp/3rdparty/yaml-cpp"]
+	path = app/src/main/cpp/3rdparty/yaml-cpp
+	url = https://github.com/RPCS3/yaml-cpp
+[submodule "app/src/main/cpp/3rdparty/zlib"]
+	path = app/src/main/cpp/3rdparty/zlib
+	url = https://github.com/madler/zlib
+[submodule "app/src/main/cpp/3rdparty/zstd/zstd"]
+	path = app/src/main/cpp/3rdparty/zstd/zstd
+	url = https://github.com/facebook/zstd
+[submodule "app/src/main/cpp/3rdparty/ffmpeg"]
+	path = app/src/main/cpp/3rdparty/ffmpeg
+	url = https://github.com/RPCS3/ffmpeg-core

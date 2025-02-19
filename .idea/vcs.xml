@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/7zip/7zip" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/FAudio" vcs="Git" />
@@ -10,14 +11,17 @@
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/cubeb/cubeb" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/cubeb/cubeb/cmake/sanitizers-cmake" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/cubeb/cubeb/googletest" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/curl/curl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/curl" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/ffmpeg" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/flatbuffers" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/fusion/fusion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/glslang" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/glslang/glslang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/hidapi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/hidapi/hidapi" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/libpng/libpng" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/libpng" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/libsdl-org/SDL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/libusb" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/libusb/libusb" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/llvm/llvm" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/miniupnp/miniupnp" vcs="Git" />
@@ -25,9 +29,10 @@
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/pugixml" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/rtmidi/rtmidi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/stblib/stb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/wolfssl" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/wolfssl/wolfssl" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/yaml-cpp/yaml-cpp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/zlib/zlib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/yaml-cpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/zlib" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/cpp/3rdparty/zstd/zstd" vcs="Git" />
   </component>
 </project>
